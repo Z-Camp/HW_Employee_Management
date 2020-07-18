@@ -2,7 +2,7 @@
 # EMAIL: the.zachary.campbell
 # TITLE OF PROJECT: Employee_Management
 # DESCRIPTION: CLI application to track employees
-# HOW TO INSTALL: Clone repo, npm i, node index.js
+# HOW TO INSTALL: Clone repo, npm i, create/seed SQL database, node index.js
 # TABLE OF CONTENTS: db contains schema and seeds, index.js runs everything
 # HOW IS THIS APP USED: CLI
 # HOW CAN OTHERS CONTRIBUTE?: meh
